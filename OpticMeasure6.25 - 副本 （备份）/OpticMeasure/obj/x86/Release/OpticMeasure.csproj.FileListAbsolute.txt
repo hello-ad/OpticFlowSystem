@@ -1,0 +1,147 @@
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\OpticMeasure.exe.config
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00001.cur
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00002.cur
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00003.cur
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00004.cur
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cursor1.cur
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\magnify.cur
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\OpticMeasure.exe
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\OpticMeasure.pdb
+D:\何老师\OpticMeasure5.29\OpticMeasure\bin\Release\AForge.Video.VFW.dll
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\View3D.Animate.AnimatedForm.resources
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\UserProgressBar.ProgressBarUI.resources
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.Function.imageDsp.resources
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.MainForm.resources
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.OpticForm.GrayAddPicture.resources
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.PictureTo24bitJpg.resources
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.ReadPictures.resources
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.Properties.Resources.resources
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.csproj.GenerateResource.Cache
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.exe
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.pdb
+D:\何老师\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.csprojResolveAssemblyReference.cache
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.csprojResolveAssemblyReference.cache
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\View3D.Animate.AnimatedForm.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\UserProgressBar.ProgressBarUI.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2Frm.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.Function.imageDsp.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.MainForm.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.OpticForm.GrayAddPicture.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.PictureTo24bitJpg.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.ReadPictures.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.Properties.Resources.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.csproj.GenerateResource.Cache
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.exe
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00001.cur
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00002.cur
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00003.cur
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00004.cur
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cursor1.cur
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\magnify.cur
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\OpticMeasure.exe.config
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\OpticMeasure.exe
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\OpticMeasure.pdb
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\bin\Release\AForge.Video.VFW.dll
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\ZH2DCL.Setting.SetPara.resources
+F:\张征宇\茆骥\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.pdb
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00001.cur
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00002.cur
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00003.cur
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cur00004.cur
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\cursor1.cur
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\Cursor\magnify.cur
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\OpticMeasure.exe.config
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\OpticMeasure.exe
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\OpticMeasure.pdb
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\bin\Release\AForge.Video.VFW.dll
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\View3D.Animate.AnimatedForm.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\UserProgressBar.ProgressBarUI.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2Frm.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.Function.imageDsp.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\ZH2DCL.Setting.SetPara.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.MainForm.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.OpticForm.GrayAddPicture.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.PictureTo24bitJpg.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.ReadPictures.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.exe
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.pdb
+C:\Users\Administrator\Desktop\OpticMeasure5.29\OpticMeasure\obj\x86\Release\OpticMeasure.csprojResolveAssemblyReference.cache
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\Cursor\cur00001.cur
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\Cursor\cur00002.cur
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\Cursor\cur00003.cur
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\Cursor\cur00004.cur
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\Cursor\cursor1.cur
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\Cursor\magnify.cur
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\OpticMeasure.exe.config
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\OpticMeasure.exe
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\OpticMeasure.pdb
+D:\何老师\OpticMeasure6.25\OpticMeasure\bin\Release\AForge.Video.VFW.dll
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.csprojResolveAssemblyReference.cache
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\View3D.Animate.AnimatedForm.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\UserProgressBar.ProgressBarUI.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2Frm.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.Function.imageDsp.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\ZH2DCL.Setting.SetPara.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.MainForm.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.OpticForm.GrayAddPicture.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.PictureTo24bitJpg.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.ReadPictures.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.Properties.Resources.resources
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.csproj.GenerateResource.Cache
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.exe
+D:\何老师\OpticMeasure6.25\OpticMeasure\obj\x86\Release\OpticMeasure.pdb
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\Cursor\cur00001.cur
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\Cursor\cur00002.cur
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\Cursor\cur00003.cur
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\Cursor\cur00004.cur
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\Cursor\cursor1.cur
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\Cursor\magnify.cur
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\OpticMeasure.exe.config
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\OpticMeasure.exe
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\OpticMeasure.pdb
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\bin\Release\AForge.Video.VFW.dll
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\View3D.Animate.AnimatedForm.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\UserProgressBar.ProgressBarUI.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2Frm.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.Function.imageDsp.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\ZH2DCL.Setting.SetPara.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.MainForm.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.OpticForm.GrayAddPicture.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.PictureTo24bitJpg.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.ReadPictures.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.Properties.Resources.resources
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.csproj.GenerateResource.Cache
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.exe
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.pdb
+D:\何老师\OpticMeasure6.25 - 副本\OpticMeasure\obj\x86\Release\OpticMeasure.csprojResolveAssemblyReference.cache
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\View3D.Animate.AnimatedForm.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\UserProgressBar.ProgressBarUI.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\ZHCLNEW.DrawCloud.DrawVector2Frm.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.Function.imageDsp.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\ZH2DCL.Setting.SetPara.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.MainForm.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.OpticForm.GrayAddPicture.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.PictureTo24bitJpg.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.ReadPictures.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.Properties.Resources.resources
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.csproj.GenerateResource.Cache
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\Cursor\cur00001.cur
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\Cursor\cur00002.cur
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\Cursor\cur00003.cur
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\Cursor\cur00004.cur
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\Cursor\cursor1.cur
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\Cursor\magnify.cur
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\OpticMeasure.exe.config
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\OpticMeasure.exe
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\OpticMeasure.pdb
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\bin\Release\AForge.Video.VFW.dll
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.exe
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.pdb
+D:\何老师\OpticMeasure6.25 - 副本 （备份）\OpticMeasure\obj\x86\Release\OpticMeasure.csprojResolveAssemblyReference.cache

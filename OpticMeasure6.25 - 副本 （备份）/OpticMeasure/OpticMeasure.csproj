@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{52CC83BD-79BB-430C-8B9E-08BC7258CD34}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OpticMeasure</RootNamespace>
+    <AssemblyName>OpticMeasure</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video.VFW">
+      <HintPath>Animate\AForge.Video.VFW.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.Direct3D, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.Direct3D.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.DirectX.Direct3DX, Version=1.0.2909.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\DirectX for Managed Code\1.0.2902.0\Microsoft.DirectX.Direct3DX.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animate\AnimatedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animate\AnimatedForm.designer.cs">
+      <DependentUpon>AnimatedForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animate\AnimatedGifEncoder.cs" />
+    <Compile Include="Animate\LZWEncoder.cs" />
+    <Compile Include="Animate\NeuQuant.cs" />
+    <Compile Include="BackProgress\BackProgressBar.cs" />
+    <Compile Include="BackProgress\ProgressBarUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BackProgress\ProgressBarUI.designer.cs">
+      <DependentUpon>ProgressBarUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class2D\Image2DView.cs" />
+    <Compile Include="Class2D\ImageCommon.cs" />
+    <Compile Include="Class2D\Interpolation.cs" />
+    <Compile Include="Class2D\LEquations.cs" />
+    <Compile Include="Class2D\MatrixOfAlgorithm.cs" />
+    <Compile Include="Class2D\NLEquations.cs" />
+    <Compile Include="Class2D\PamaterSetting.cs" />
+    <Compile Include="Class2D\ReadFromProject.cs" />
+    <Compile Include="Functions\DrawFlow.cs" />
+    <Compile Include="Functions\DrawVector2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Functions\DrawVector2.Designer.cs">
+      <DependentUpon>DrawVector2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\DrawVector2Frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Functions\DrawVector2Frm.Designer.cs">
+      <DependentUpon>DrawVector2Frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\imageDsp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Functions\imageDsp.designer.cs">
+      <DependentUpon>imageDsp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Functions\SetPara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Functions\SetPara.designer.cs">
+      <DependentUpon>SetPara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModelDeformationCaliberation\ModelDeformationCaliberation.cs" />
+    <Compile Include="OpticFlowFunc\CreatArray.cs" />
+    <Compile Include="OpticFlowFunc\FunctionFunc.cs" />
+    <Compile Include="OpticFlowFunc\GetOpticflowResultOfSingleReferencePicture.cs" />
+    <Compile Include="OpticFlowFunc\newOpticFlow.cs" />
+    <Compile Include="OpticForm\GrayAddPicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpticForm\GrayAddPicture.designer.cs">
+      <DependentUpon>GrayAddPicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpticForm\PictureTo24bitJpg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpticForm\PictureTo24bitJpg.designer.cs">
+      <DependentUpon>PictureTo24bitJpg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpticForm\ReadPictures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpticForm\ReadPictures.designer.cs">
+      <DependentUpon>ReadPictures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OptiClass\DefineOptic.cs" />
+    <Compile Include="OptiClass\DefineModelDeformationCaliberation.cs" />
+    <Compile Include="OptiClass\OpticMeasureClass.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Triangulation\Triangulation.cs" />
+    <EmbeddedResource Include="Animate\AnimatedForm.resx">
+      <DependentUpon>AnimatedForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackProgress\ProgressBarUI.resx">
+      <DependentUpon>ProgressBarUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Functions\DrawVector2.resx">
+      <DependentUpon>DrawVector2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Functions\DrawVector2Frm.resx">
+      <DependentUpon>DrawVector2Frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Functions\imageDsp.resx">
+      <DependentUpon>imageDsp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Functions\SetPara.resx">
+      <DependentUpon>SetPara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpticForm\GrayAddPicture.resx">
+      <DependentUpon>GrayAddPicture.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpticForm\PictureTo24bitJpg.resx">
+      <DependentUpon>PictureTo24bitJpg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpticForm\ReadPictures.resx">
+      <DependentUpon>ReadPictures.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Class3D\" />
+    <Folder Include="Keys\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Cursor\cur00001.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Cursor\cur00002.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Cursor\cur00003.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Cursor\cur00004.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Cursor\cursor1.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Cursor\magnify.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
